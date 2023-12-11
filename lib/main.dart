@@ -4,9 +4,9 @@ import 'package:learn_bloc/bloc/weather_bloc/data_provider.dart';
 import 'package:learn_bloc/bloc/weather_bloc/weather_bloc.dart';
 import 'package:learn_bloc/bloc/weather_bloc/weather_repository.dart';
 import 'package:learn_bloc/bloc/weather_bloc/weather_screen.dart';
-import 'package:learn_bloc/cubit/auth_cubit/auth_cubit.dart';
-import 'package:learn_bloc/cubit/counter_cubit/counter_cubit.dart';
-import 'package:learn_bloc/cubit/todo_cubit/todo_cubit.dart';
+// import 'package:learn_bloc/cubit/auth_cubit/auth_cubit.dart';
+// import 'package:learn_bloc/cubit/counter_cubit/counter_cubit.dart';
+// import 'package:learn_bloc/cubit/todo_cubit/todo_cubit.dart';
 
 void main() {
   runApp(MyApp());

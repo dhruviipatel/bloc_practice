@@ -1,6 +1,5 @@
 import 'package:bloc/bloc.dart';
 import 'package:learn_bloc/bloc/weather_bloc/allWeatherDataModel.dart';
-import 'package:learn_bloc/bloc/weather_bloc/weather_model.dart';
 import 'package:learn_bloc/bloc/weather_bloc/weather_repository.dart';
 import 'package:meta/meta.dart';
 
